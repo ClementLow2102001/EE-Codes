@@ -1,5 +1,5 @@
 {
-  PROJECT: EE-6 Practical 1
+  PROJECT: MotorControl
   PLATFORM: Parallax Project USB Board
   REVISION: 3
   AUTHOR: Clement Low
